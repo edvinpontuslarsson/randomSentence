@@ -1,0 +1,34 @@
+{
+    "subjects": [
+        "hunden",
+        "gubben",
+        "åsnan",
+        "ankan",
+        "björnen",
+        "pingvinen",
+        "albatrossen",
+        "grisen",
+        "hantverkaren",
+        "tandläkaren",
+        "brevbäraren"
+    ],
+
+    "verbs": [
+        "äter",
+        "tvättar",
+        "jagar",
+        "fruktar",
+        "lagar",
+        "skäller ut",
+        "köper",
+        "begriper sig inte på"
+    ],
+
+    "objects": [
+        "äpplet",
+        "chokladkakan",
+        "bilen",
+        "pannkakan",
+        "rymdskeppet"
+    ]
+}
