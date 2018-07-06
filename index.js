@@ -25,6 +25,7 @@ const pickRandom = words => words[
     )
 ]
 
+// runs program
 ;(async () => {
     const file = 
         await getFile('words.json')    
@@ -37,7 +38,9 @@ const pickRandom = words => words[
 
     setInterval(() => {
         console.log(
-            `${pickRandom(start)} ${pickRandom(mid)} ${pickRandom(end)}`
+            `${pickRandom(start)} ` +
+            `${pickRandom(mid)} ` +
+            pickRandom(end)
         )
     }, 1000)
 })()
